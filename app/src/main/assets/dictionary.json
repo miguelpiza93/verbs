@@ -1,0 +1,712 @@
+{
+  "verbs": [
+    {
+      "verb": "arise",
+      "simple_past": "arose",
+      "past_participle": "arisen",
+      "spanish": "surgir"
+    },
+    {
+      "verb": "be",
+      "simple_past": "was / were",
+      "past_participle": "been",
+      "spanish": "ser"
+    },
+    {
+      "verb": "beat",
+      "simple_past": "beat",
+      "past_participle": "beaten",
+      "spanish": "golpear"
+    },
+    {
+      "verb": "become",
+      "simple_past": "became",
+      "past_participle": "become",
+      "spanish": "convertirse"
+    },
+    {
+      "verb": "begin",
+      "simple_past": "began",
+      "past_participle": "begun",
+      "spanish": "comenzar"
+    },
+    {
+      "verb": "bet",
+      "simple_past": "bet/betted",
+      "past_participle": "bet/betted",
+      "spanish": "apostar"
+    },
+    {
+      "verb": "bite",
+      "simple_past": "bit",
+      "past_participle": "bitten",
+      "spanish": "morder"
+    },
+    {
+      "verb": "bleed",
+      "simple_past": "bled",
+      "past_participle": "bled",
+      "spanish": "sangrar"
+    },
+    {
+      "verb": "blow",
+      "simple_past": "blew",
+      "past_participle": "blown",
+      "spanish": "soplar"
+    },
+    {
+      "verb": "break",
+      "simple_past": "broke",
+      "past_participle": "broken",
+      "spanish": "romper"
+    },
+    {
+      "verb": "bring",
+      "simple_past": "brought",
+      "past_participle": "brought",
+      "spanish": "traer"
+    },
+    {
+      "verb": "build",
+      "simple_past": "built",
+      "past_participle": "built",
+      "spanish": "construir"
+    },
+    {
+      "verb": "buy",
+      "simple_past": "bought",
+      "past_participle": "bought",
+      "spanish": "comprar"
+    },
+    {
+      "verb": "catch",
+      "simple_past": "caught",
+      "past_participle": "caught",
+      "spanish": "atrapar"
+    },
+    {
+      "verb": "choose",
+      "simple_past": "chose",
+      "past_participle": "chosen",
+      "spanish": "elegir"
+    },
+    {
+      "verb": "come",
+      "simple_past": "came",
+      "past_participle": "come",
+      "spanish": "venir"
+    },
+    {
+      "verb": "cost",
+      "simple_past": "cost",
+      "past_participle": "cost",
+      "spanish": "costar"
+    },
+    {
+      "verb": "creep",
+      "simple_past": "crept",
+      "past_participle": "crept",
+      "spanish": "arrastrarse"
+    },
+    {
+      "verb": "cut",
+      "simple_past": "cut",
+      "past_participle": "cut",
+      "spanish": "cortar"
+    },
+    {
+      "verb": "deal",
+      "simple_past": "dealt",
+      "past_participle": "dealt",
+      "spanish": "dar, repartir"
+    },
+    {
+      "verb": "do",
+      "simple_past": "did",
+      "past_participle": "done",
+      "spanish": "hacer"
+    },
+    {
+      "verb": "draw",
+      "simple_past": "drew",
+      "past_participle": "drawn",
+      "spanish": "dibujar"
+    },
+    {
+      "verb": "dream",
+      "simple_past": "dreamt/dreamed",
+      "past_participle": "dreamt/dreamed",
+      "spanish": "soñar"
+    },
+    {
+      "verb": "drink",
+      "simple_past": "drank",
+      "past_participle": "drunk",
+      "spanish": "beber"
+    },
+    {
+      "verb": "drive",
+      "simple_past": "drove",
+      "past_participle": "driven",
+      "spanish": "conducir"
+    },
+    {
+      "verb": "eat",
+      "simple_past": "ate",
+      "past_participle": "eaten",
+      "spanish": "comer"
+    },
+    {
+      "verb": "fall",
+      "simple_past": "fell",
+      "past_participle": "fallen",
+      "spanish": "caer"
+    },
+    {
+      "verb": "feed",
+      "simple_past": "fed",
+      "past_participle": "fed",
+      "spanish": "alimentar"
+    },
+    {
+      "verb": "feel",
+      "simple_past": "felt",
+      "past_participle": "felt",
+      "spanish": "sentir"
+    },
+    {
+      "verb": "fight",
+      "simple_past": "fought",
+      "past_participle": "fought",
+      "spanish": "pelear"
+    },
+    {
+      "verb": "find",
+      "simple_past": "found",
+      "past_participle": "found",
+      "spanish": "encontrar"
+    },
+    {
+      "verb": "flee",
+      "simple_past": "fled",
+      "past_participle": "fled",
+      "spanish": "huir"
+    },
+    {
+      "verb": "fly",
+      "simple_past": "flew",
+      "past_participle": "flown",
+      "spanish": "volar"
+    },
+    {
+      "verb": "forget",
+      "simple_past": "forgot",
+      "past_participle": "forgotten",
+      "spanish": "olvidar"
+    },
+    {
+      "verb": "forgive",
+      "simple_past": "forgave",
+      "past_participle": "forgiven",
+      "spanish": "perdonar"
+    },
+    {
+      "verb": "forsake",
+      "simple_past": "forsook",
+      "past_participle": "forsaken",
+      "spanish": "abandonar"
+    },
+    {
+      "verb": "freeze",
+      "simple_past": "froze",
+      "past_participle": "frozen",
+      "spanish": "congelar"
+    },
+    {
+      "verb": "get",
+      "simple_past": "got",
+      "past_participle": "got",
+      "spanish": "tener, obtener"
+    },
+    {
+      "verb": "give",
+      "simple_past": "gave",
+      "past_participle": "given",
+      "spanish": "dar"
+    },
+    {
+      "verb": "go",
+      "simple_past": "went",
+      "past_participle": "gone",
+      "spanish": "ir"
+    },
+    {
+      "verb": "grind",
+      "simple_past": "ground",
+      "past_participle": "ground",
+      "spanish": "moler"
+    },
+    {
+      "verb": "grow",
+      "simple_past": "grew",
+      "past_participle": "grown",
+      "spanish": "crecer"
+    },
+    {
+      "verb": "hang",
+      "simple_past": "hung",
+      "past_participle": "hung",
+      "spanish": "colgar"
+    },
+    {
+      "verb": "have",
+      "simple_past": "had",
+      "past_participle": "had",
+      "spanish": "tener"
+    },
+    {
+      "verb": "hear",
+      "simple_past": "heard",
+      "past_participle": "heard",
+      "spanish": "oír"
+    },
+    {
+      "verb": "hide",
+      "simple_past": "hid",
+      "past_participle": "hidden",
+      "spanish": "esconderse"
+    },
+    {
+      "verb": "hit",
+      "simple_past": "hit",
+      "past_participle": "hit",
+      "spanish": "golpear"
+    },
+    {
+      "verb": "hold",
+      "simple_past": "held",
+      "past_participle": "held",
+      "spanish": "tener, mantener"
+    },
+    {
+      "verb": "hurt",
+      "simple_past": "hurt",
+      "past_participle": "hurt",
+      "spanish": "herir, doler"
+    },
+    {
+      "verb": "keep",
+      "simple_past": "kept",
+      "past_participle": "kept",
+      "spanish": "guardar"
+    },
+    {
+      "verb": "kneel",
+      "simple_past": "knelt",
+      "past_participle": "knelt",
+      "spanish": "arrodillarse"
+    },
+    {
+      "verb": "know",
+      "simple_past": "knew",
+      "past_participle": "known",
+      "spanish": "saber"
+    },
+    {
+      "verb": "lead",
+      "simple_past": "led",
+      "past_participle": "led",
+      "spanish": "encabezar"
+    },
+    {
+      "verb": "learn",
+      "simple_past": "learnt/learned",
+      "past_participle": "learnt/learned",
+      "spanish": "aprender"
+    },
+    {
+      "verb": "leave",
+      "simple_past": "left",
+      "past_participle": "left",
+      "spanish": "dejar"
+    },
+    {
+      "verb": "lend",
+      "simple_past": "lent",
+      "past_participle": "lent",
+      "spanish": "prestar"
+    },
+    {
+      "verb": "let",
+      "simple_past": "let",
+      "past_participle": "let",
+      "spanish": "dejar"
+    },
+    {
+      "verb": "lie",
+      "simple_past": "lay",
+      "past_participle": "lain",
+      "spanish": "yacer"
+    },
+    {
+      "verb": "lose",
+      "simple_past": "lost",
+      "past_participle": "lost",
+      "spanish": "perder"
+    },
+    {
+      "verb": "make",
+      "simple_past": "made",
+      "past_participle": "made",
+      "spanish": "hacer"
+    },
+    {
+      "verb": "mean",
+      "simple_past": "meant",
+      "past_participle": "meant",
+      "spanish": "significar"
+    },
+    {
+      "verb": "meet",
+      "simple_past": "met",
+      "past_participle": "met",
+      "spanish": "conocer, encontrar"
+    },
+    {
+      "verb": "pay",
+      "simple_past": "paid",
+      "past_participle": "paid",
+      "spanish": "pagar"
+    },
+    {
+      "verb": "put",
+      "simple_past": "put",
+      "past_participle": "put",
+      "spanish": "poner"
+    },
+    {
+      "verb": "quit",
+      "simple_past": "quit/quitted",
+      "past_participle": "quit/quitted",
+      "spanish": "abandonar"
+    },
+    {
+      "verb": "read",
+      "simple_past": "read",
+      "past_participle": "read",
+      "spanish": "leer"
+    },
+    {
+      "verb": "ride",
+      "simple_past": "rode",
+      "past_participle": "ridden",
+      "spanish": "montar, ir"
+    },
+    {
+      "verb": "ring",
+      "simple_past": "rang",
+      "past_participle": "rung",
+      "spanish": "llamar por teléfono"
+    },
+    {
+      "verb": "rise",
+      "simple_past": "rose",
+      "past_participle": "risen",
+      "spanish": "elevar"
+    },
+    {
+      "verb": "run",
+      "simple_past": "ran",
+      "past_participle": "run",
+      "spanish": "correr"
+    },
+    {
+      "verb": "say",
+      "simple_past": "said",
+      "past_participle": "said",
+      "spanish": "decir"
+    },
+    {
+      "verb": "see",
+      "simple_past": "saw",
+      "past_participle": "seen",
+      "spanish": "ver"
+    },
+    {
+      "verb": "sell",
+      "simple_past": "sold",
+      "past_participle": "sold",
+      "spanish": "vender"
+    },
+    {
+      "verb": "send",
+      "simple_past": "sent",
+      "past_participle": "sent",
+      "spanish": "enviar"
+    },
+    {
+      "verb": "set",
+      "simple_past": "set",
+      "past_participle": "set",
+      "spanish": "fijar"
+    },
+    {
+      "verb": "sew",
+      "simple_past": "sewed",
+      "past_participle": "sewn/sewed",
+      "spanish": "coser"
+    },
+    {
+      "verb": "shake",
+      "simple_past": "shook",
+      "past_participle": "shaken",
+      "spanish": "sacudir"
+    },
+    {
+      "verb": "shine",
+      "simple_past": "shone",
+      "past_participle": "shone",
+      "spanish": "brillar"
+    },
+    {
+      "verb": "shoot",
+      "simple_past": "shot",
+      "past_participle": "shot",
+      "spanish": "disparar"
+    },
+    {
+      "verb": "show",
+      "simple_past": "showed",
+      "past_participle": "shown/showed",
+      "spanish": "mostrar"
+    },
+    {
+      "verb": "shrink",
+      "simple_past": "shrank/shrunk",
+      "past_participle": "shrunk",
+      "spanish": "encoger"
+    },
+    {
+      "verb": "shut",
+      "simple_past": "shut",
+      "past_participle": "shut",
+      "spanish": "cerrar"
+    },
+    {
+      "verb": "sing",
+      "simple_past": "sang",
+      "past_participle": "sung",
+      "spanish": "cantar"
+    },
+    {
+      "verb": "sink",
+      "simple_past": "sank",
+      "past_participle": "sunk",
+      "spanish": "hundir"
+    },
+    {
+      "verb": "sit",
+      "simple_past": "sat",
+      "past_participle": "sat",
+      "spanish": "sentarse"
+    },
+    {
+      "verb": "sleep",
+      "simple_past": "slept",
+      "past_participle": "slept",
+      "spanish": "dormir"
+    },
+    {
+      "verb": "slide",
+      "simple_past": "slid",
+      "past_participle": "slid",
+      "spanish": "deslizar"
+    },
+    {
+      "verb": "sow",
+      "simple_past": "sowed",
+      "past_participle": "sown/sowed",
+      "spanish": "sembrar"
+    },
+    {
+      "verb": "speak",
+      "simple_past": "spoke",
+      "past_participle": "spoken",
+      "spanish": "hablar"
+    },
+    {
+      "verb": "spell",
+      "simple_past": "spelt/spelled",
+      "past_participle": "spelt/spelled",
+      "spanish": "deletrear"
+    },
+    {
+      "verb": "spend",
+      "simple_past": "spent",
+      "past_participle": "spent",
+      "spanish": "gastar"
+    },
+    {
+      "verb": "spill",
+      "simple_past": "spilt/spilled",
+      "past_participle": "spilt/spilled",
+      "spanish": "derramar"
+    },
+    {
+      "verb": "split",
+      "simple_past": "split",
+      "past_participle": "split",
+      "spanish": "partir"
+    },
+    {
+      "verb": "spoil",
+      "simple_past": "spoilt/spoiled",
+      "past_participle": "spoilt/spoiled",
+      "spanish": "estropear"
+    },
+    {
+      "verb": "spread",
+      "simple_past": "spread",
+      "past_participle": "spread",
+      "spanish": "extenderse"
+    },
+    {
+      "verb": "stand",
+      "simple_past": "stood",
+      "past_participle": "stood",
+      "spanish": "estar de pie"
+    },
+    {
+      "verb": "steal",
+      "simple_past": "stole",
+      "past_participle": "stolen",
+      "spanish": "robar"
+    },
+    {
+      "verb": "sting",
+      "simple_past": "stung",
+      "past_participle": "stung",
+      "spanish": "picar"
+    },
+    {
+      "verb": "stink",
+      "simple_past": "stank/stunk",
+      "past_participle": "stunk",
+      "spanish": "apestar"
+    },
+    {
+      "verb": "strike",
+      "simple_past": "struck",
+      "past_participle": "struck",
+      "spanish": "golpear"
+    },
+    {
+      "verb": "swear",
+      "simple_past": "swore",
+      "past_participle": "sworn",
+      "spanish": "jurar"
+    },
+    {
+      "verb": "sweep",
+      "simple_past": "swept",
+      "past_participle": "swept",
+      "spanish": "barrer"
+    },
+    {
+      "verb": "swim",
+      "simple_past": "swam",
+      "past_participle": "swum",
+      "spanish": "nadar"
+    },
+    {
+      "verb": "take",
+      "simple_past": "took",
+      "past_participle": "taken",
+      "spanish": "tomar"
+    },
+    {
+      "verb": "teach",
+      "simple_past": "taught",
+      "past_participle": "taught",
+      "spanish": "enseñar"
+    },
+    {
+      "verb": "tear",
+      "simple_past": "tore",
+      "past_participle": "torn",
+      "spanish": "romper"
+    },
+    {
+      "verb": "tell",
+      "simple_past": "told",
+      "past_participle": "told",
+      "spanish": "decir"
+    },
+    {
+      "verb": "think",
+      "simple_past": "thought",
+      "past_participle": "thought",
+      "spanish": "pensar"
+    },
+    {
+      "verb": "throw",
+      "simple_past": "threw",
+      "past_participle": "thrown",
+      "spanish": "lanzar"
+    },
+    {
+      "verb": "tread",
+      "simple_past": "trode",
+      "past_participle": "trodden/trod",
+      "spanish": "pisar"
+    },
+    {
+      "verb": "understand",
+      "simple_past": "understood",
+      "past_participle": "understood",
+      "spanish": "entender"
+    },
+    {
+      "verb": "wake",
+      "simple_past": "woke",
+      "past_participle": "woken",
+      "spanish": "despertarse"
+    },
+    {
+      "verb": "wear",
+      "simple_past": "wore",
+      "past_participle": "worn",
+      "spanish": "llevar puesto"
+    },
+    {
+      "verb": "weave",
+      "simple_past": "wove",
+      "past_participle": "woven",
+      "spanish": "tejer"
+    },
+    {
+      "verb": "weep",
+      "simple_past": "wept",
+      "past_participle": "wept",
+      "spanish": "llorar"
+    },
+    {
+      "verb": "win",
+      "simple_past": "won",
+      "past_participle": "won",
+      "spanish": "ganar"
+    },
+    {
+      "verb": "wring",
+      "simple_past": "wrung",
+      "past_participle": "wrung",
+      "spanish": "retorcer"
+    },
+    {
+      "verb": "write",
+      "simple_past": "wrote",
+      "past_participle": "written",
+      "spanish": "escribir"
+    }
+  ]
+}
